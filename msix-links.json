@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-09-12T17:13:59Z",
+  "packages": {
+    "arm64": {
+      "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb0397c0-935f-4de9-8957-e3562f2c962f?P1=1789247549&P2=404&P3=2&P4=NMbaR5ftH5zmpiY%2bK1aD4ksG7Yh1VdVKfDU3qhBw9GQdC%2bQD1s6c6KdNYs0IOK9nOP9hbWpFR1uq9%2fC5YrUwKw%3d%3d",
+      "expiresAt": "2026-09-12T21:12:29Z"
+    },
+    "x64": {
+      "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5831ab6a-4a66-43c2-adab-f5642f6d1f0c?P1=1789248639&P2=404&P3=2&P4=dm5qCiAoZ6n4rofQvZIiNDOZCnH1RKPDciqGQ9k09Sss725dypMeQFwtJD3XaguMVExmNoTAfpqGupdd%2bfNtiw%3d%3d",
+      "expiresAt": "2026-09-12T21:30:39Z"
+    }
+  }
+}
